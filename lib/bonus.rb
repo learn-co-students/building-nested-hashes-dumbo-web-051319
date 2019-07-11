@@ -20,6 +20,10 @@ def bonus
    }
   }
 
+  hero[:status] = "dead", 
+  heroine[:status] = "dead" 
+
+
   #code your solution here:
 
   
